@@ -13,8 +13,8 @@ Menus:
     - Name: "Home"
       URL: "/"
       weight: 10
-    - Name: "Minecraft"
-      URL: "/minecraft/"
+    - Name: "About"
+      URL: "/about/"
       weight: 20
     - Name: "iOS Apps"
       URL: "/ios-apps/"
@@ -22,9 +22,6 @@ Menus:
     - Name: "Contact"
       URL: "/contact/"
       weight: 40
-    - Name: "About"
-      URL: "/about/"
-      weight: 50
 
 author:
   name: "Wyatt Pfeil"
