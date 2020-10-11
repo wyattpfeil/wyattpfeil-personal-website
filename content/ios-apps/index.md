@@ -7,9 +7,6 @@ layout = "page"
 
 +++
 
----
-
-
 ## Dot Flash
 
 

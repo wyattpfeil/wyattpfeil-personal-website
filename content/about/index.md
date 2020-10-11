@@ -7,4 +7,5 @@ layout = "page"
 
 +++
 
-Hi, I'm Wyatt and this is my site about things I like!
+Hey! I'm Wyatt. Throughout my life, I've developed a strong a passion for programming. Some fields that I'm currently interested in are game development, software creation, and artificial intelligence. On this site, you'll find information about me along with some projects I've developed.
+
