@@ -1,0 +1,31 @@
+baseURL: "https://wyattpfeil.com/"
+languageCode: "en-us"
+title: "Wyatt Pfeil"
+theme: "casper3"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - Name: "Home"
+      URL: "/"
+      weight: 10
+    - Name: "Minecraft"
+      URL: "/minecraft/"
+      weight: 20
+    - Name: "iOS Apps"
+      URL: "/ios-apps/"
+      weight: 30
+    - Name: "Balloon Art"
+      URL: "/balloon-art/"
+      weight: 40
+    - Name: "About"
+      URL: "/about/"
+      weight: 50
+
+author:
+  name: "Wyatt Pfeil"
+  website: "https://wyattpfeil.com"
