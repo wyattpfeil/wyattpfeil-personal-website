@@ -19,6 +19,8 @@ Menus:
     - Name: "iOS Apps"
       URL: "/ios-apps/"
       weight: 30
+    - Name: "Contact"
+      URL: "/contact/"
       weight: 40
     - Name: "About"
       URL: "/about/"
