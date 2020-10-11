@@ -3,7 +3,7 @@
 # If a command fails then the deploy stops
 set -e
 
-SITE_DIRECTORY_PATH=~/projects/wyattpfeil-personal-website
+SITE_DIRECTORY_PATH=/Users/brianpfeil/Dropbox/wyattpfeil-personal-website
 SITE_CONFIG_FILE_PATH="${SITE_DIRECTORY_PATH}/config.yaml"
 POST_DIRECTORY_PATH="${SITE_DIRECTORY_PATH}/content/post"
 
@@ -89,7 +89,7 @@ publish() {
 
 	# generate service worker
 	# see https://developers.google.com/web/tools/workbox/guides/generate-service-worker/cli
-	workbox generateSW workbox-config.js
+	#workbox generateSW workbox-config.js
 
 	# Go To Public folder
 	pushd public
@@ -105,7 +105,7 @@ publish() {
 	git commit -a -m "$msg"
 
 	# Push source and build repos.
-	git push origin master
+	git push origin main
 
 	popd
 
