@@ -19,8 +19,6 @@ Menus:
     - Name: "iOS Apps"
       URL: "/ios-apps/"
       weight: 30
-    - Name: "Balloon Art"
-      URL: "/balloon-art/"
       weight: 40
     - Name: "About"
       URL: "/about/"
