@@ -7,4 +7,4 @@ layout = "page"
 
 +++
 
-Hi, I'm Wyatt and this is my site about things I like.
+Hi, I'm Wyatt and this is my site about things I like!
